@@ -52,7 +52,7 @@ This project addresses the challenge by integrating LangChain with LLMs to gener
 
 # ⚙️ Setup Instructions
 
-***1. Clone the Repository**
+**1. Clone the Repository**
 
 - git clone https://github.com/Kuntalsvyas/LangChain-Summarize-Text-From-YT-or-Website.git
 - cd LangChain-Summarize-Text-From-YT-or-Website
